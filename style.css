@@ -7,6 +7,10 @@ h1 {
   font-weight: bold;
 }
 
+html {
+  background-color: rgb(252, 230, 210);
+}
+
 img {
   display: block;
   margin-left: auto;
